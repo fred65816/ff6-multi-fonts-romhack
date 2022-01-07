@@ -1,0 +1,1 @@
+The romhack can be applied by assembling `main.asm` or `main_EXP.asm` with [xkas 0.06](https://www.romhacking.net/utilities/269/).
