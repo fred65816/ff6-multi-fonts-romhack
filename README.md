@@ -18,11 +18,11 @@ The variable-with font used for dialogues and descriptions is also affected by t
 
 A new dialogue control code have been added since centering can be different with two possible fonts. Writing `$17` at the beginning of a line now center automatically the line given it ends by new line (`$01`), end parameter (`$11`, `$12`) or end page (`$13`). In FF3usME, use `<OP$17>` as shown here:
 
-![op17](images/op17.png)
+![opt17](images/opt17.png)
 
 ## ROM to use
 
-You need a FF3us 1.0 ROM. As an example `Final Fantasy III (USA) 1.0.sfc` in the no-intro romset is one. The ROM SHA-1 is `4F37E4274AC3B2EA1BEDB08AA149D8FC5BB676E7`. This hash is from a ROM with no SNES header, if your ROM have one there are tools to remove it.
+You need a FF3us 1.0 ROM. For example, `Final Fantasy III (USA) 1.0.sfc` in the no-intro romset is one. The ROM SHA-1 is `4F37E4274AC3B2EA1BEDB08AA149D8FC5BB676E7`. This hash is from a ROM with no SNES header, if your ROM have one there are tools to remove it.
 
 ## Technicalities
 
